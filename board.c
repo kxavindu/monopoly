@@ -1,0 +1,47 @@
+#include "types.h"
+#include <stdio.h>
+
+char SQUARES_NAME[40][50]={
+"Go",
+"Pettah",
+"Community Development Fund",
+"Maradana",
+"Income Tax",
+"Colombo Fort Railway Station",
+"Bambalapitiya",
+"National Event Card 1",
+"Wellawatta",
+"Mount Lavinia",
+"Jail",
+"Nugegoda",
+"Ceylon Electricity Board",
+"Maharagama",
+"Kottawa",
+"Kandy Railway Station",
+"Negombo",
+"Sri Lanka Insurance",
+"Katunayake",
+"Ja-Ela",
+"Free Parking",
+"Kandy City",
+"National Event Card 2",
+"Peradenya",
+"Katugastota",
+"Galle Railway Station",
+"Galle Fort",
+"Unawatuna",
+"National Water Supply and Drainage Board",
+"Hikkaduwa",
+"Go To Jail",
+"Jaffna Town",
+"Nallur",
+"Ceylinco Insurance",
+"Trincomalee",
+"Jaffna Railway Station",
+"National Event Card 3",
+"Nuwara Eliya",
+"Bank Of Ceylon",
+"Galle Face"
+
+
+};
