@@ -5,9 +5,9 @@
 
 
 int main (){
-  srand(time(NULL)); //dont change this
-
+  srand(time(NULL)); 
   GameStart();
- 
+  
+  
   
 }
